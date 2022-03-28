@@ -9,12 +9,7 @@
           "c": "TT",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "a",
         "difficulty": "beginner"
       },
@@ -26,12 +21,7 @@
           "c": "Off delay timer",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "c",
         "difficulty": "beginner"
       },
@@ -40,15 +30,10 @@
         "answers": {
           "a": "True",
           "b": "False",
-          "c": "Can’t say",
+          "c": "Canâ€™t say",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "b",
         "difficulty": "beginner"
       },
@@ -60,12 +45,7 @@
           "c": "TON",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "a",
         "difficulty": "beginner"
       },
@@ -77,12 +57,7 @@
           "c": "The accumulated value is set to zero",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+       
         "correctAnswer": "a",
         "difficulty": "beginner"
       }
