@@ -4,7 +4,5 @@
 3. W.Bolton, *"Programmable Logic Controllers"*, Elsevier, 4th Ed., 2006.
 
 ### Useful links:
-1. [https://www.plcdev.com/book/export/html/9](https://www.plcdev.com/book/export/html/9)
-2. [https://www.plcmanual.com/](https://www.plcmanual.com/)
-3. [https://literature.rockwellautomation.com/](https://literature.rockwellautomation.com/)
-4. [https://www.automation.siemens.com/](https://www.automation.siemens.com/)
+1. [https://literature.rockwellautomation.com/](https://literature.rockwellautomation.com/)
+2. [https://www.automation.siemens.com/](https://www.automation.siemens.com/)
