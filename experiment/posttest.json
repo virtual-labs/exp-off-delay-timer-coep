@@ -1,39 +1,66 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+"version": 2.0,
+    "questions": [
+      {
+        "question": "The main difference between a Ton and a Toff timer is that:",
+        "answers": {
+          "a": "Toff can maintain the accumulated time on loss of logic continuity",
+          "b": "Toff timer begins timing when logic continuity to the rung is lost",
+          "c": "Ton can maintain the accumulated time on loss of logic continuity",
+          "d": "None"
+        },
+       
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "DN bit for Toff timer is initially high when the program is switched to run mode after downloading:",
+        "answers": {
+          "a": "True",
+          "b": "False",
+          "c": "Can’t say",
+          "d": "None"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "The done bit changes state whenever:",
+        "answers": {
+          "a": "the timer timing value reaches the preset value",
+          "b": "the accumulated value reaches the timer timing value",
+          "c": "the accumulated value reaches the preset value",
+          "d": "None"
+        },
+       
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Toff is used when action is not expected after specific delay:",
+        "answers": {
+          "a": "True",
+          "b": "False",
+          "c": "Can’t say",
+          "d": "None"
+        },
+        
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": " In off delay timer the status of TT bit is same as:",
+        "answers": {
+          "a": "Rung condition IN bit",
+          "b": "EN bit",
+          "c": "DN bit",
+          "d": "None"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
