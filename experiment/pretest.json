@@ -1,39 +1,66 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Which bit of timer ensures that the timing process is over i.e. accumulated and preset time is equal?",
+        "answers": {
+          "a": "DN",
+          "b": "EN",
+          "c": "TT",
+          "d": "None"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Toff stands for:",
+        "answers": {
+          "a": "Retentive timer",
+          "b": "On delay timer",
+          "c": "Off delay timer",
+          "d": "None"
+        },
+        
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "DN bit for Ton timer is initially high when the program is switched to run mode after downloading:",
+        "answers": {
+          "a": "True",
+          "b": "False",
+          "c": "Can’t say",
+          "d": "None"
+        },
+        
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Which of the following is not type of timer?",
+        "answers": {
+          "a": "CTU",
+          "b": "RTO",
+          "c": "TON",
+          "d": "None"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "To stop the timer operation:",
+        "answers": {
+          "a": "The rung condition is made false",
+          "b": "The done bit is set to low",
+          "c": "The accumulated value is set to zero",
+          "d": "None"
+        },
+       
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
