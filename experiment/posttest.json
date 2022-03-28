@@ -1,3 +1,4 @@
+{
 "version": 2.0,
     "questions": [
       {
@@ -22,7 +23,7 @@
         "answers": {
           "a": "True",
           "b": "False",
-          "c": "Can’t say",
+          "c": "Canâ€™t say",
           "d": "None"
         },
         "explanations": {
@@ -56,7 +57,7 @@
         "answers": {
           "a": "True",
           "b": "False",
-          "c": "Can’t say",
+          "c": "Canâ€™t say",
           "d": "None"
         },
         "explanations": {
