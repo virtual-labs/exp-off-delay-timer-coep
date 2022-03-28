@@ -9,12 +9,7 @@
           "c": "Ton can maintain the accumulated time on loss of logic continuity",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+       
         "correctAnswer": "b",
         "difficulty": "beginner"
       },
@@ -26,12 +21,7 @@
           "c": "Can’t say",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "a",
         "difficulty": "beginner"
       },
@@ -43,12 +33,7 @@
           "c": "the accumulated value reaches the preset value",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+       
         "correctAnswer": "c",
         "difficulty": "beginner"
       },
@@ -60,12 +45,7 @@
           "c": "Can’t say",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "b",
         "difficulty": "beginner"
       },
@@ -77,12 +57,7 @@
           "c": "DN bit",
           "d": "None"
         },
-        "explanations": {
-          "a": "Explanation 1  <a href='www.google.com'>here</a>",
-          "b": "Explanation 2",
-          "c": "Explanation 2",
-          "d": "Explanation 2"
-        },
+        
         "correctAnswer": "a",
         "difficulty": "beginner"
       }
